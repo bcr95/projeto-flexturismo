@@ -52,7 +52,7 @@ header .menu {
 }
 
 .apresentacao {
-    height: 100vh;
+    height: 90vh;
     align-items: center;
     justify-content: space-between;
 }
@@ -132,6 +132,7 @@ header .menu {
 .list-servicos {
     display: flex;
     justify-content: space-between;
+    margin-top: 40px;
 }
 
 .list-servicos .item-servico {
